@@ -6,4 +6,4 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Welcome to ECEM202A @ UCLA: Embedded Systems
+# Welcome to ECE M202A Embedded Systems @ UCLA (Fall 2021)
