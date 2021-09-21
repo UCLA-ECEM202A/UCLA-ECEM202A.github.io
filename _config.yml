@@ -2,3 +2,11 @@ title: "Embedded Systems"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "On GitHub":
+    - "//github.com/ucla-ecem202a/ucla-ecem202a.github.io"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
