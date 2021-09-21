@@ -6,4 +6,7 @@ nav_order: 3
 
 ## Lectures
 
-To come...
+| Date         | Title             | Assets|
+|:-------------|:------------------|:------|
+| 2021-09-25   | Lecture 1         | URL  |
+
