@@ -6,4 +6,4 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-## Welcome to ECE M202A (Fall 2021)
+## Welcome to UCLA ECE M202A (Fall 2021)
