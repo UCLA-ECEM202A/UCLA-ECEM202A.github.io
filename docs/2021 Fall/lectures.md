@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Lectures
 
-| Date         | Title                          | Assets                      |
-|:-------------|:-------------------------------|:----------------------------|
-| 2021-09-25   | Lecture 1: Introduction        | [slides](http://example.com)|
+| Date         | Title                                                                             | Assets                      |
+|:-------------|:----------------------------------------------------------------------------------|:----------------------------|
+| 2021-09-25   | Lecture 1: Introduction Introduction Introduction Introduction Introduction       | [slides](http://example.com)|
 
