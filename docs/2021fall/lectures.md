@@ -9,7 +9,7 @@ nav_order: 3
 Lectures in Fall 2021 are TuTh 2:00-3:50 PM Pacific Time in 4660 Geology Building. I will try to record the lectures and make them available via YouTube, but are unable to guarantee that. Below you will find links to lecture slides and handouts.
 
 * __Thu 2021-09-25__
-  - Lecture 1: Introduction ([slides](http://))
+  - Lecture 1: Course Introduction ([pdf](https://drive.google.com/file/d/10jqNpbyjp8fgx1BXNhhQmFnOusHGvkBS))
 * __Tue 2021-09-28__
 * __Thu 2021-09-30__
 * __Tue 2021-10-05__
