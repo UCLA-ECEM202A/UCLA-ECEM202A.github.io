@@ -10,8 +10,8 @@ Lectures in Fall 2021 are TuTh 2:00-3:50 PM Pacific Time in 4660 Geology Buildin
 
 * __Thu 2021-09-25__
   - Module 1: Course Introduction ([pdf](https://drive.google.com/file/d/10tOISZNuRN61B4RXLzE9F7aEI3JyNzTJ/view?usp=sharing))
-  - Module 2: Embedded Hardware Platforms ([pdf](https://drive.google.com/file/d/11-TR2MAQO90su6aKTo-cWcDaOIeHgtZj/view?usp=sharing))
 * __Tue 2021-09-28__
+  - Module 2: Embedded Hardware Platforms ([pdf](https://drive.google.com/file/d/11-TR2MAQO90su6aKTo-cWcDaOIeHgtZj/view?usp=sharing))
 * __Thu 2021-09-30__
 * __Tue 2021-10-05__
 * __Thu 2021-10-07__
