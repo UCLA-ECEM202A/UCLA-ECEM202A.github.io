@@ -9,10 +9,11 @@ nav_order: 3
 Lectures in Fall 2021 are TuTh 2:00-3:50 PM Pacific Time in 4660 Geology Building. I will try to record the lectures and make them available via YouTube, but are unable to guarantee that. Below you will find links to lecture slides and handouts.
 
 * __Thu 2021-09-23__
-  - Module 1: Course Introduction ([pdf](https://drive.google.com/file/d/10tOISZNuRN61B4RXLzE9F7aEI3JyNzTJ/view?usp=sharing))
+  - Module 1: Course Introduction ([pdf](https://drive.google.com/file/d/10tOISZNuRN61B4RXLzE9F7aEI3JyNzTJ/view?usp=sharing)
 * __Tue 2021-09-28__
-  - Module 2: Embedded Hardware Platforms ([pdf](https://drive.google.com/file/d/11-TR2MAQO90su6aKTo-cWcDaOIeHgtZj/view?usp=sharing))
+  - Module 2: Embedded Hardware Platforms ([pdf](https://drive.google.com/file/d/11-TR2MAQO90su6aKTo-cWcDaOIeHgtZj/view?usp=sharing)
 * __Thu 2021-09-30__
+  - Module 3: Embedded Software Organization ([pdf](https://drive.google.com/file/d/12Yln7gVl6KjQFVBVQhMJ4QeErB_HV1Cu/view?usp=sharing)
 * __Tue 2021-10-05__
 * __Thu 2021-10-07__
 * __Tue 2021-10-12__
