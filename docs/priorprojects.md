@@ -30,3 +30,15 @@ nav_order: 8
 * [Door Lock System with Graphical Password](https://allenfeng2014.github.io/door-lock-system/)
 * [Voice Coil Controller](https://drive.google.com/file/d/1X6QZB8RBUIXU7YrKyr0aS0lkwRJLoVu9/view?usp=sharing)
 * [Social Distancing & Health Detector](https://m202ateam888.github.io/Social-Distancing-Health-Detector/)
+* [WASM for Mbed OS](https://utsavm9.github.io/wasm-for-arduino-mbed/)
+
+### Fall 2019
+* [Aware Alexa](https://sydneyhung.github.io/AwareAlexa/)
+* [Embedded MPL](https://)
+* [Time Sync over ESP32 WiFi mesh](https://docs.google.com/presentation/d/1_mTQgXuTCpl7AHnJy80JHufNlhhPZ6pSCje2EgmMlB0/edit#slide=id.p)
+* [Google Assistant Self Driving Robot](https://www.youtube.com/watch?v=cpvFdGAf1BY&t=14s)
+* [Healthy Alexa](https://hannahojaiji.wixsite.com/ee202ahealthyalexa)
+* [Hexiwear as Mouse](https://shupic.github.io/ECE202A_Final_Project/)
+* [LOFI: Using your mood and activity to recommend music](https://m202a-winter19-lofi.github.io)
+* [Neural Networks on Hexiwear](https://hisroar.github.io/NNonHexiwear/)
+* [Characterization and Application of Android WiFi-RTT API](https://masteryi814.github.io/ECE202_Final_Project/)
