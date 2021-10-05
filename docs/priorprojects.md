@@ -5,7 +5,7 @@ nav_order: 8
 ---
 
 ## Projects from Previous Years
-### Fall 2020
+### 2020 Fall
 * [Home IoT Management in ARENA (Augmented Reality Edge Network Architecture)](https://suvir-patrick.github.io)
 * [An Analysis of Efficient Gesture-Recognition Methods using Real-time Accelerometer Data](https://tariqryousuf.github.io)
 * [Blessyou Sneeze Detection](https://sd951753.github.io/Blessyou/)
@@ -32,7 +32,22 @@ nav_order: 8
 * [Social Distancing & Health Detector](https://m202ateam888.github.io/Social-Distancing-Health-Detector/)
 * [WASM for Mbed OS](https://utsavm9.github.io/wasm-for-arduino-mbed/)
 
-### Winter 2019
+### 2019 Fall
+* [Activity Classification Using Earables and a Wristband](https://mnicholas2019.github.io/M202A/)
+* [DirectMe: Indoor Navigation System for Visually Impaired People](https://amir-omidfar.github.io/m202Fall19/)
+* [Video and Audio Synchronization](https://binhanle.github.io/eem202a-project/)
+* [Localizing and Visualizing Wireless Sensors](https://github.com/uclalch/Localizing-and-visualizing-wireless-sensor/blob/master/README.md)
+* [REMtrack - REM Sleep Tracker](https://ciankc.github.io/REMtrack/)
+* [Predi-Home: Cloud AI-driven smart home control](https://github.com/cspades/predi-home)
+* [DDIoTA: Digital Distributed IoT Assistant](https://eugenecchu.github.io/DDIoTA/)
+* [Using embedded sensors to recognize weather patterns that can degrade autonomous vehicle performance](https://glenmeyerowitz.github.io/ECEM202A-Project/)
+* [EMG-Based Control and Expression for Personal Devices and IoT](https://slavainder.github.io/M202A_EMG_Based_Text_Entry/)
+* [MREarable: Integrating Spatial Audio in a Mixed Reality Environment through Earable Sensor Modalities](https://svsecem202a.weebly.com)
+* [WASM for IoT Devices](https://liux120.github.io/ECE202_WASM/)
+* [A Pedestrian Alert System using “earables”](https://xuchenxuexx.github.io/EEM202A_Final_Project/)
+* [IBID: Interaction Between Intelligent Devices](https://yifax.github.io/IBID/)
+
+### 2019 Winter
 * [Aware Alexa](https://sydneyhung.github.io/AwareAlexa/)
 * [Embedded MPL](https://)
 * [Time Sync over ESP32 WiFi mesh](https://docs.google.com/presentation/d/1_mTQgXuTCpl7AHnJy80JHufNlhhPZ6pSCje2EgmMlB0/edit#slide=id.p)
