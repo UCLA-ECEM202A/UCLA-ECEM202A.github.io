@@ -32,7 +32,7 @@ nav_order: 8
 * [Social Distancing & Health Detector](https://m202ateam888.github.io/Social-Distancing-Health-Detector/)
 * [WASM for Mbed OS](https://utsavm9.github.io/wasm-for-arduino-mbed/)
 
-### Fall 2019
+### Winter 2019
 * [Aware Alexa](https://sydneyhung.github.io/AwareAlexa/)
 * [Embedded MPL](https://)
 * [Time Sync over ESP32 WiFi mesh](https://docs.google.com/presentation/d/1_mTQgXuTCpl7AHnJy80JHufNlhhPZ6pSCje2EgmMlB0/edit#slide=id.p)
