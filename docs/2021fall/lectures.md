@@ -15,6 +15,7 @@ Lectures in Fall 2021 are TuTh 2:00-3:50 PM Pacific Time in 4660 Geology Buildin
 * __Thu 2021-09-30__
   - Module 3: Embedded Software Organization ([pdf](https://drive.google.com/file/d/12Yln7gVl6KjQFVBVQhMJ4QeErB_HV1Cu/view?usp=sharing))
 * __Tue 2021-10-05__
+  - Module 4: From Sensor Signals to Inferences ([pdf](https://drive.google.com/file/d/151cAIKq-GtDkT8WSoibcYVb_Pms_tdT6/view?usp=sharingg))
 * __Thu 2021-10-07__
 * __Tue 2021-10-12__
 * __Thu 2021-10-14__
