@@ -22,9 +22,10 @@ Lectures in Fall 2021 are TuTh 2:00-3:50 PM Pacific Time in 4660 Geology Buildin
   - Guest Lecture #1: Machine Learning and Neural Architecture Search for Microcontrollers & Edge Devices ([pdf](https://drive.google.com/file/d/15xovXj112NsIs5eq_UzWsp4x6j62tiIn/view?usp=sharing))
 * __Tue 2021-10-19__
   - Module 5: Timing Constraints and Real-time CPU Scheduling ([pdf](https://drive.google.com/file/d/15idzW73EFf8nIHV32yLqU9OkM5D03OUp/view?usp=sharing))
-  - Module 6: Real-time Scheduling Advanced Topics ([pdf](https://drive.google.com/file/d/15Z1F0Fc-Q27IRQM2vm07Xbo_Y6_V9zDN/view?usp=sharing))
 * __Thu 2021-10-21__
+  - Module 6: Real-time Scheduling Advanced Topics ([pdf](https://drive.google.com/file/d/15Z1F0Fc-Q27IRQM2vm07Xbo_Y6_V9zDN/view?usp=sharing))
 * __Tue 2021-10-26__
+  - Module 7: Real-time Scheduling Advanced Topics ([pdf](https://drive.google.com/file/d/168WJRi0fyLLG1K_juiPbWzALwQ1YpXoH/view?usp=sharing))
 * __Thu 2021-10-28__
 * __Tue 2021-11-02__
 * __Thu 2021-11-04__
