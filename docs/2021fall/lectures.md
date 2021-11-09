@@ -29,13 +29,19 @@ Lectures in Fall 2021 are TuTh 2:00-3:50 PM Pacific Time in 4660 Geology Buildin
 * __Thu 2021-10-28__
 * __Tue 2021-11-02__
 * __Thu 2021-11-04__
+  - Module 8: Time Synchronization ([pdf](https://drive.google.com/file/d/17sMCB6xW4kCnYOJuMtBq9qwHb2zCQDYW/view?usp=sharing))
 * __Tue 2021-11-09__
+  - Module 9: Wireless for IoT ([pdf](https://drive.google.com/file/d/17offYPzlnyfQNOpnGczuycC3oRwSRqV2/view?usp=sharing))
 * __Thu 2021-11-11__
   - Holiday: Veteran's Day
 * __Tue 2021-11-16__
 * __Thu 2021-11-18__
+  - Project Midterm Checkpoint Presentation
 * __Tue 2021-11-23__
+  - Paper Presentations
 * __Tue 2021-11-25__
   - Holiday: Thanksgiving
 * __Thu 2021-11-30__
+  - Paper Presentations
 * __Tue 2021-12-02__
+  - Paper Presentations
